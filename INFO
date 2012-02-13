@@ -1,0 +1,8 @@
+# PLUGIN INFO - DO NOT EDIT!
+
+author  Etienne Meleard
+email   etienne.meleard@free.fr
+date    2009-09-15
+name    Condition plugin
+desc    render a block if a condition if fullfilled, user custom tests can be easily added
+url     http://wiki.splitbrain.org/plugin:condition
